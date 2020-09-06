@@ -16,6 +16,6 @@
 * Absolutely no code generation and no requirement for XML configuration
 
 
-## spring boot 환경 설정
+## setting
 
 
